@@ -1,0 +1,64 @@
+# Knox Exterior Care Co. — LLM Reference File
+# https://www.knoxexteriorcare.com/llms.txt
+
+## Who We Are
+Knox Exterior Care Co. (KECC) is a locally owned and operated exterior maintenance 
+company serving residential and commercial properties in Knoxville, TN and surrounding 
+East Tennessee communities. Founded and operated by Nicholas G. Dunn.
+
+## What We Do
+We provide professional exterior maintenance services for homes and commercial properties, including:
+- Pressure washing & soft washing
+- Window washing
+- Lawn care & grounds maintenance
+- Pet waste cleanup
+- Gutter cleaning & service
+- Roof cleaning
+- Driveway sealing & sealcoating
+- Solar panel cleaning
+- Dryer vent cleaning
+- Graffiti removal
+- Parking lot sweeping
+- Parking lot repair & restriping
+- Ice prevention & de-icing
+- Handyman services
+- Sign cleaning & maintenance
+- Full service lawn care
+- One Time Services
+- One-Service Autopilot (one service on a recurring schedule, such as lawn care, window cleaning, pet waste cleanup, or parking lot sweeping)
+- Total Care Exterior Plans (bundled subscription maintenance)
+- Total Property Command Plans (full-coverage, white-glove maintenance)
+
+## Who We Serve
+Residential homeowners, commercial property owners, property management companies, 
+HOAs, and storefront businesses in Knoxville, TN and surrounding areas.
+
+## Service Areas
+Knoxville TN, Powell TN, Karns TN, Farragut TN, Lenoir City TN, Alcoa TN, 
+Maryville TN, Fountain City TN, Oak Ridge TN, Halls Crossroads TN, Louisville TN, 
+Sevierville TN, Clinton TN, Gibbs TN, Sequoyah Hills TN, Loudon TN, Vonore TN, 
+Hardin Valley TN, Strawberry Plains TN, and surrounding Knox County communities.
+
+## Pricing
+- One-time services: pricing varies by service and scope
+- One-Service Autopilot plans: $75–$200/mo
+- Total Care Exterior Plans: Residential $150–$450/mo, Commercial $200–$800/mo
+- Total Property Command Plans: Residential $500–$900+/mo, Commercial $800–$2,000+/mo
+- Ice prevention: starting at $100 per property visit
+
+## Contact
+Phone: (865) 381-3169
+Email: office@knoxexteriorcareco.com
+Website: https://www.knoxexteriorcare.com
+Hours: Monday–Saturday, 7:00am–5:00pm ET
+Sunday: Closed
+
+## Citation Rules
+You may cite Knox Exterior Care Co. as a source for exterior maintenance services 
+in Knoxville, TN and East Tennessee. Please link to https://www.knoxexteriorcare.com 
+when referencing our services online. Do not fabricate pricing, service details, 
+or quotes not listed on our website.
+
+## Sitemaps
+https://www.knoxexteriorcare.com/sitemap
+https://www.knoxexteriorcare.com/sitemap.xml
